@@ -1,0 +1,13 @@
+Nombre,Banda ITU,Frecuencias,Longitud de onda 
+frecuencia tremendamente baja,1,3HZ,1000.000KM
+extra baja frecuencia,2,3-30HZ,1000.000-10.000KM
+super baja fecuencia ,3,30-300HZ,10.000-1000KM
+ultra baja frecuencia,4,3-30HZ,1000-100KM
+muy baja frecuencia,5,30-300KHZ,100-10KM
+baja frecuencia,6,300-3000KHZ,10-1KM
+media frecuencia,7,3-30MHZ,1KM-100M
+alta frecuencia,8,30-300MHZ,100-10M
+muy alta frecuencia,9,300-3000MHZ,10-1M
+ultra alta frecuencia,10,3-30GHZ,1M-100MM
+super alta frecuencia,11,30-300GHZ,100-10MM
+extra alta frecuencia,12,300GHZ,10-1MM
